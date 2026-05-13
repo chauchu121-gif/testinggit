@@ -1,5 +1,5 @@
 tom,ban = map(int,input().split())
-if tom == 1 and ban ==1:
+if tom == 1 and ban ==0:
     print ("tomronban")
 elif tom==0 and ban ==0:
     print("tom ron sach")
